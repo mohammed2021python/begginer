@@ -1,0 +1,2 @@
+# begginer
+my first training
